@@ -26,6 +26,13 @@ The system integrates a **camera** for image capture, **ultrasonic sensor** for 
 
 ---
 
+## 🔌 Hardware Setup & Wiring Diagram
+
+The wiring diagram below shows the connection between **Raspberry Pi 4**, **Servo SG90**, and **Ultrasonic Sensor HC-SR04** using a breadboard.
+
+<p align="center">
+  <img src="Docs/wiring_diagram.png" alt="Raspberry Pi Waste Bin Wiring Diagram" width="600"/>
+</p>
 
 ## 🗑 Design & Prototyping
 
