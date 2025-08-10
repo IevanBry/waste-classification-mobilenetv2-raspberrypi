@@ -35,7 +35,9 @@ The prototype of this smart waste bin is designed with **two compartments** for:
 
 This is the prototype design of the smart waste bin system:
 
-![Prototype Waste Bin Design](Docs/Prototype.png)
+<p align="center">
+  <img src="Docs/Prototype.png" alt="Prototype Waste Bin Design" width="500"/>
+</p>
 
 The system integrates:
 - **Camera** mounted above the waste inlet to capture the object image.
