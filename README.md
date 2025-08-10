@@ -5,7 +5,7 @@ This project is an **automatic waste classification and sorting system** based o
 - **Organic**
 - **Inorganic**
 
-The system integrates a **camera** for image capture, **ultrasonic sensor** for object detection, and a **servo motor** to open/close the bin according to the detected waste type.
+The MobileNetV2 model used in this system achieved an accuracy of **99.14%** on the test dataset, providing highly reliable waste classification in real-time. The system combines a **camera** to capture images of waste, an **ultrasonic sensor** to detect the presence of objects within a certain distance, and a **servo motor** to automatically direct the waste into the appropriate compartment (organic or inorganic) based on the classification result.
 
 ---
 
