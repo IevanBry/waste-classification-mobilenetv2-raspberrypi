@@ -85,12 +85,12 @@ pip3 install tflite_runtime-2.14.0-cp39-cp39-linux_aarch64.whl
 ```
 
 ## 🚀 Running the Program
-1. Connect all components (camera, sensor, servo) as configured in the script.
-2. Run:
+1️⃣ Connect all components (camera, sensor, servo) as configured in the script.<br>
+2️⃣ Run:
 ```bash
 python3 project.py
 ```
-3. Open your browser and go to:
+3️⃣ Open your browser and go to:
 ```bash
 http://<RASPBERRY_PI_IP>:5000
 ```
