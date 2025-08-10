@@ -92,11 +92,11 @@ http://<RASPBERRY_PI_IP>:5000
 ```bash
 waste-classification-mobilenetv2-raspberrypi/
 │
-├── app.py                 # Main Flask + classification script
+├── project.py              # Main Flask + classification script
 ├── model_smartwaste.tflite # MobileNetV2 TFLite model
-├── labels.txt             # Classification labels
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+├── labels.txt              # Classification labels
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation
 ```
 
 ## 🛠 Troubleshooting
