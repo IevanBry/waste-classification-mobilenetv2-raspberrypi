@@ -1,0 +1,7 @@
+Flask
+opencv-python
+numpy
+tflite-runtime
+Pillow
+waitress
+RPi.GPIO
